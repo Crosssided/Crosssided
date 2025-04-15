@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crosssided
-- 👀 I’m interested in AI, Minecraft
+- 👀 I’m interested in interesting things such as; Minecraft, coding, math(not really)
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Minecraft texture pakc
 - 📫 How to reach me Discord: YourLocalPeanut
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
